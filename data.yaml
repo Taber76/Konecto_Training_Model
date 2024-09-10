@@ -1,0 +1,8 @@
+path: dataset
+train: images/train
+val: images/val
+nc: 3
+names:
+  0: "bucosan"
+  1: "alerfast"
+  2: "other"
